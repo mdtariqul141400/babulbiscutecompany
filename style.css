@@ -1,3 +1,11 @@
-.pic {
-  background-image: url(img/images\\(2\).jfif);
+body {
+  background-image: url("./img/hhjyy.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.text4 {
+  font-size: 25px;
+  margin: 60px;
 }
